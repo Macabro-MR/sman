@@ -1,0 +1,121 @@
+{
+  "users": {
+    "554891089432@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 44,
+      "limite_comprado": 1,
+      "limite": 50,
+      "carteira": 0,
+      "pendente": 75,
+      "token_pix": 0,
+      "limit": null
+    },
+    "559992155537@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 8,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 45,
+      "token_pix": 0,
+      "limit": null
+    },
+    "554891982298@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 0,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0,
+      "limit": null
+    },
+    "554884555584@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 10,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0
+    },
+    "6285821778190@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 0,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0
+    }
+  },
+  "chats": {
+    "554891089432@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "559992155537@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "554884555584-1603065897@g.us": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "554884555584@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "120363029329594987@g.us": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "120363042407070358@g.us": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "554891982298@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "6285821778190@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    }
+  },
+  "blaze": {},
+  "database": {},
+  "game": {},
+  "settings": {
+    "6285821778190@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}

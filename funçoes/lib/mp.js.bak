@@ -1,0 +1,13 @@
+const mercadopago = require ('mercadopago');
+
+async verificarPagamento(idPedido){
+    const pago = await mercadopago.payment.search({
+        external_reference: idPedido
+    });
+
+    if(pago[0].status == 'approved'){
+        return true;
+    }
+
+    return false;
+}

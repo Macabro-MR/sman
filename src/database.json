@@ -1,0 +1,76 @@
+{
+  "users": {
+    "6285821778190@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 0,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0
+    },
+    "559992155537@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 0,
+      "limite_comprado": 0,
+      "limite": 10,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0
+    },
+    "554891089432@s.whatsapp.net": {
+      "afkReason": "",
+      "afkTime": -1,
+      "consultas": -1,
+      "limite_restante": 0,
+      "limite_comprado": 0,
+      "limite": 50,
+      "carteira": 0,
+      "pendente": 0,
+      "token_pix": 0
+    }
+  },
+  "chats": {
+    "6285821778190@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "554884555584-1603065897@g.us": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "559992155537@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    },
+    "554891089432@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "boasvindas": false
+    }
+  },
+  "blaze": {},
+  "database": {},
+  "game": {},
+  "settings": {
+    "6285821778190@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}

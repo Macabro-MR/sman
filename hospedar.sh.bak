@@ -1,0 +1,6 @@
+git init
+git config --global user.email "oliveirahigor301@gmail.com"
+heroku git:remote -a isa-search
+git add .
+git commit -am "make it better"
+git push heroku master --force
